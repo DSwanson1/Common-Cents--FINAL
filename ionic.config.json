@@ -1,0 +1,8 @@
+{
+  "name": "Common Cents",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "f06319d8"
+}
